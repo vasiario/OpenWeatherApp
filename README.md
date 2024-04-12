@@ -9,4 +9,4 @@ Once successfully generating your API Key from openweathermap.org, to make the a
 struct APISecret {
     static let key = "[YOUR_API_KEY]"
 }
-Change the [YOUR_API_KEY] with your actual key.
+Change the [YOUR_API_KEY] with your actual key
